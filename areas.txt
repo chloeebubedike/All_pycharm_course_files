@@ -1,0 +1,6 @@
+List comprehension
+Calculating the difference between two numbers
+What a connection and cursor in in mysql connector
+Connection - A connection is essentially just a special object the database gives you when you “log in"
+Key point about the cursor is that it’s the special object that lets you actually execute a query
+Without a cursor (in MySQL anyway), a connection alone is a bit like logging into your computer but then not being able to open any programs
